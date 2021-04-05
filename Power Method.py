@@ -103,6 +103,3 @@ while(proceed):
     if(what_to_do=="no"):
         proceed=False
     print()
-
-
-
